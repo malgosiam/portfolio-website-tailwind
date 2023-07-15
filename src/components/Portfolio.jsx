@@ -21,7 +21,7 @@ const Portfolio = () => {
       name="portfolio"
       className="bg-gradient-to-b from-indigo-500 via-purple-500 to-pink-500 w-full text-white md:h-screen"
     >
-      <div className="max-w-screen-lg p-4 py-24 md:py-2 mx-auto flex flex-col justify-center w-full h-full">
+      <div className="max-w-screen-lg p-4 py-24 md:py-2 md:pt-48 mx-auto flex flex-col justify-center w-full h-full">
         <div className="pb-8">
           <p className="text-4xl font-bold inline tracking-[.25em] uppercase">
             Portfolio
